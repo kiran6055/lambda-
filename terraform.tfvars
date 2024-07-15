@@ -7,6 +7,10 @@ terraform_lambda= {
 }
 
 
+Please follow this link
+https://github.com/sophiecosgrove 
+it has more terraform script for creating apigateway and dynamodb in modules like strcture
+
 
 #this is taken as refference from below githublink and below medium link
 #https://github.com/batuhan-bulut/terraform-aws-lambda/blob/main/terraform/terraform.tfvars
